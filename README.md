@@ -13,6 +13,7 @@ Handle user input to create dynamic patterns.
 Understand alignment using spaces and characters.
 
 📋 Instructions
+
 1️⃣ Run the Program
 Start the program and choose a pattern from the menu.
 
